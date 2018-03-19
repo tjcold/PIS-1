@@ -11,6 +11,7 @@ namespace tjukica_pis_1
         {
             Console.WriteLine("Hello World");
             #KOMENTAR od Luke
+            #drugi kom
         }
     }
 }
