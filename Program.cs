@@ -13,6 +13,7 @@ namespace tjukica_pis_1
             #KOMENTAR od Luke
             #drugi kom
             #treci kom
+            Console.WriteLine("Maci");
         }
     }
 }
